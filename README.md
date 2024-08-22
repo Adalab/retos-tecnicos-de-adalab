@@ -24,8 +24,8 @@ El plan es que refuercen los conocimientos del bootcamp, pero también que apren
 - Los retos están pensados para que aprendan tecnologías y herramientas que realmente les ayuden a conseguir un trabajo en lo que se han formado.
 - Tendremos retos distintos para programación web y para data analytics.
 - Están diseñados para completarse en un mes, con un ejercicio base de 30 horas y algunos bonus para las que quieran más caña. 💪
-- Independencia: No hace falta haber hecho los retos anteriores. Pueden unirse en cualquier momento y empezar por el reto que quieran.
-- Alineados con su formación: Los retos estarán siempre en sintonía con lo que ya han aprendido en Adalab.
+- No hace falta haber hecho los retos anteriores. Pueden unirse en cualquier momento y empezar por el reto que quieran.
+- Los retos estarán siempre en sintonía con lo que ya han aprendido en Adalab.
 
 Así que ya saben, chicas, ¡es hora de ponerse manos a la obra y seguir construyendo ese futuro techie brillante que todas se merecen! 💻🌟
 
