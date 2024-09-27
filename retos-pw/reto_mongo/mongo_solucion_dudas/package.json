@@ -1,0 +1,17 @@
+{
+  "name": "mongo_db",
+  "version": "1.0.0",
+  "description": "mongodb+srv://dayana:I86qQUFjRu3frMxz@cluster0.v4fvtsu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "nodemon": "^3.1.7"
+  }
+}
