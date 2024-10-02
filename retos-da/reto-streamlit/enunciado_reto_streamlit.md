@@ -59,7 +59,7 @@ El resultado esperado es un script de python (.py) que al ser ejecutado, genere 
 - Aplicar filtros que permitan al usuario seleccionar diferentes tareas o visualizar diferentes resultados.
 - Desplegar la aplicación de forma pública en Streamlit Cloud para que cualquier usuario pueda acceder a ella (opcional).
 
-En este [video](https://www.loom.com/share/94468ce75f334b55831938213975d845?sid=b144567c-2f17-44c0-9829-e8cafed03e4f), se puede encontrar un ejemplo de lo que se espera, pero es posible añadir o modificar todo aquéllo que se considere oportuno. 
+En este [video](https://www.youtube.com/watch?v=sL9T5MKtzhk&feature=youtu.be), se puede encontrar un ejemplo de lo que se espera, pero es posible añadir o modificar todo aquéllo que se considere oportuno. 
 
 ## 📚 Recursos Externos para Resolver el Reto
 - [📖 Documentación de Streamlit](https://docs.streamlit.io/)
