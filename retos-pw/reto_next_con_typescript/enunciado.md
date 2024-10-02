@@ -4,6 +4,8 @@
 
 Desarrollar una aplicación web interactiva utilizando Next.js y TypeScript que permita a las usuarias explorar diferentes álbumes de fotos, ver detalles de cada foto y aplicar filtros para buscar fotos por descripción o fotógrafo.
 
+[![Vídeo explicativo reto](https://img.youtube.com/vi/s5LL3AjRL2w/0.jpg)](https://www.youtube.com/watch?v=s5LL3AjRL2wYOUTUBE_VIDEO_ID_HERE)
+
 ## 🛠️ Tecnologías a repasar
 
 - [Next.js](https://nextjs.org/). Framework de React.
