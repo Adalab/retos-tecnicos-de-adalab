@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <title>Editar Libro</title>
+  </head>
+  <body>
+    <div class="container mt-5">
+      <h1 class="text-center">Editar Libro</h1>
+      <form id="editBookForm">
+        <div class="mb-3">
+          <label for="title" class="form-label">Título:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="title"
+            name="title"
+            required
+          />
+        </div>
+        <div class="mb-3">
+          <label for="genre" class="form-label">Género:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="genre"
+            name="genre"
+            required
+          />
+        </div>
+        <div class="mb-3">
+          <label for="year" class="form-label">Año:</label>
+          <input
+            type="number"
+            class="form-control"
+            id="year"
+            name="year"
+            required
+          />
+        </div>
+        <div class="mb-3">
+          <label for="authors" class="form-label">Autores:</label>
+          <select
+            id="authors"
+            name="authors"
+            class="form-select"
+            multiple
+            required
+          >
+            <!-- Opciones de autores se llenarán dinámicamente -->
+          </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+      </form>
+    </div>
+    <script src="./js/editBook.js"></script>
+  </body>
+</html>
